@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://in-gaza.github.io/Moon-smile/sitemap.xml
+
+Disallow: /private/
+Disallow: /tmp/
